@@ -1,0 +1,3 @@
+cutoff_radius=0.35
+cutoff_hdist_factor=0.1
+include_secondary=1
